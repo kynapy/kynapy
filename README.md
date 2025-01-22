@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @kynapy
 - 👀 I’m interested in Computer Sciences!
-- 🌱 I’m currently minoring in CS in the National University of Singapore (NUS), but my major is actually Life Sciences!
-- 💞️ I’m looking for an internship :>
-- 📫 How to reach me: @kynapy everywhere!
+- 🌱 I’m currently working at Credit Agricole Corporate & Investment Bank as a Software Engineer!
 
-I'm using GitHub as a way to synchronise my code between my PC and laptop so I can seamlessly work on my assignments :) 
+- 📫 How to reach me: @kynapy everywhere!
 
 <!---
 kynapy/kynapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
